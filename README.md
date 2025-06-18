@@ -79,17 +79,6 @@ A deep learning-based classification system built from scratch using Convolution
 
 ---
 
-## How to Run
-
-1. Clone the repo and open `melanoma_skin_cancer_detection.ipynb` in Google Colab
-2. Mount your Google Drive and load the dataset
-3. Run all cells to:
-   - Preprocess and augment data
-   - Build and train the CNN
-   - Evaluate and visualize model performance
-
----
-
 ## Dataset Access
 
 -  [ISIC Archive (Dataset)](https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view)  
